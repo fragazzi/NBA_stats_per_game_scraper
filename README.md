@@ -1,1 +1,3 @@
-# NBA_stats_per_game_scraper
+# NBA stats per game scraper
+
+[Basketball Reference](https://www.basketball-reference.com/)
